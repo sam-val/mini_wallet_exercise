@@ -36,7 +36,7 @@ Written in Django and Django REST Framework. I tried to follow the requirments a
 ``` 
 <br>
 
-That's it! The Server is running at localhost:8000
+That's it! The Server is running at <strong>localhost:8000</strong>
 
 ## Testing
 Using *Postman* or command line tool like *curl* or whatever, you can access these endpoints (as specified in the exercise)
