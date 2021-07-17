@@ -9,7 +9,7 @@ Written in Django and Django REST Framework. I tried to follow the requirments a
 
 2. Clone this repo in a folder
 ```
->>> git clone https://github.com/sam-val/mini_wallet_exercise.git
+$ git clone https://github.com/sam-val/mini_wallet_exercise.git
 ```
 2. Outside of folder **mini_wallet_excercise**, create an virtual enviroment:
 ```
@@ -41,12 +41,12 @@ That's it! The Server is running at <strong>localhost:8000</strong>
 ## Testing
 Using *Postman* or command line tool like *curl* or whatever, you can access these endpoints (as specified in the exercise)
 
-* `POST http://localhost:8000/api/v1/init`
+* `POST 'http://localhost:8000/api/v1/init'`
 * `GET 'http://localhost:8000/api/v1/wallet'`
 * `POST 'http://localhost:8000/api/v1/wallet'`
 * `PATCH 'http://localhost:8000/api/v1/wallet'`
-* `POST http://localhost:8000/api/v1/wallet/deposits`
-* `POST http://localhost:8000/api/v1/wallet/withdrawals`
+* `POST 'http://localhost:8000/api/v1/wallet/deposits'`
+* `POST 'http://localhost:8000/api/v1/wallet/withdrawals'`
 
 For details, read [the exercise][link] from Postman itself.
 
