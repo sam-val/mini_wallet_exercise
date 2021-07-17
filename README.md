@@ -2,7 +2,7 @@
 
 [link]:https://documenter.getpostman.com/view/8411283/SVfMSqA3?version=latest
 
-Written in Django and Django REST Framework. I tried to follow the requirments as close as possible.
+Written in Django and Django REST Framework. Run locally with sqlite3. I tried to follow the requirments as close as possible.
 ## Installation
 
 0. Install Python3
